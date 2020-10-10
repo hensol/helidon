@@ -88,8 +88,8 @@
 
         <surefire.argLine>-Xmx1024m -Dfile.encoding=UTF8</surefire.argLine>
         <failsafe.argLine>-Xmx1024m -Dfile.encoding=UTF8</failsafe.argLine>
-        <surefire.coverage.argline />
-        <failsafe.coverage.argline />
+        <surefire.coverage.argline/>
+        <failsafe.coverage.argline/>
 
         <spotbugs.skip>false</spotbugs.skip>
         <spotbugs.threshold>Medium</spotbugs.threshold>
@@ -124,7 +124,7 @@
         <version.lib.jaxrs-api>2.1</version.lib.jaxrs-api>
         <version.lib.jedis>2.9.0</version.lib.jedis>
         <version.lib.jersey>2.26</version.lib.jersey>
-        <version.lib.jgit>4.9.0.201710071750-r</version.lib.jgit>
+        <version.lib.jgit>5.1.0.201809111528-r</version.lib.jgit>
         <version.lib.jmh>1.19</version.lib.jmh>
         <version.lib.jsonp-api>1.1.2</version.lib.jsonp-api>
         <version.lib.jsonp-impl>1.1.2</version.lib.jsonp-impl>
